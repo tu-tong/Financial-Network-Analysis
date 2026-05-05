@@ -46,16 +46,16 @@ The **Louvain method** is applied to the 1-month pre-conflict and post-conflict 
 
 ---
 
-## Network Analysis
+## Network Analysis (click each visual for an interactive version with more info)
 
-#### 1 Year Before the Conflict
-![](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/pre-1yr.png)
+### 1 Year Before the Conflict
+[![1-Year Preview](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/pre-1yr.png)](https://tu-tong.github.io/Financial-Network-Analysis/Network%20results/network_1yr.html)
 
-#### 1 Month Before the Conflict
-![](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/pre-1m.png)
+### 1 Month Before the Conflict
+[![1-Month Preview](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/pre-1m.png)](https://tu-tong.github.io/Financial-Network-Analysis/Network%20results/network_1m.html)
 
-#### Post-Conflict
-![](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/post-conflict.png)
+### Post-Conflict
+[![Post-Conflict Preview](https://github.com/tu-tong/Financial-Network-Analysis/raw/main/Network%20results/post-conflict.png)](https://tu-tong.github.io/Financial-Network-Analysis/Network%20results/network_post.html)
 
 ---
 
